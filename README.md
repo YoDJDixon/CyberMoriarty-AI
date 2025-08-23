@@ -49,6 +49,32 @@ CyberMoriarty aims to become:
 
 ---
 
+🤝 Contributing
+
+This project is at concept / prototype stage. Contributions are welcome:
+
+Feature suggestions
+
+Research ideas
+
+Proof-of-concepts
+
+---
+
+📜 License
+
+MIT License – for educational and ethical use only.
+Not allowed for illegal or unauthorized exploitation.
+
+---
+
+🧭 Author’s Note
+
+This project started as a college capstone and is now being developed into a responsible open-source initiative.
+The long-term vision is to contribute to the community as the foundation of Responsible AI-Offensive Cybersecurity.
+
+---
+
 ## 📂 How to Run (Prototype)
 Since this is an early prototype, many features are placeholders.  
 To explore the UI locally:  
@@ -63,4 +89,6 @@ npm install
 
 # Run prototype
 npm start
+
+
 
