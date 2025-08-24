@@ -81,8 +81,8 @@ To explore the UI locally:
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR-USERNAME/CyberMoriarty.git
-cd CyberMoriarty
+git clone https://github.com/YOUR-USERNAME/CyberMoriarty-AI.git
+cd CyberMoriarty-AI
 
 # Install dependencies (if Node.js project)
 npm install
